@@ -277,3 +277,6 @@ body {
   margin-top: -10rem; }
   .section-features > * {
     transform: skewY(7deg); }
+
+.center-text {
+  text-align: center; }
